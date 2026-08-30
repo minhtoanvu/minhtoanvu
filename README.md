@@ -1,137 +1,320 @@
 <div align="center">
-  
-# 👋 Hi there, I'm Minh Toàn
+
+# 👋 Hi, I'm Minh Toàn
+
+### Information Systems Student | Data · Business Analysis · QA · AI
 
 </div>
 
-I'm a **Full-Stack Engineer** with deep expertise in **Software Testing (QA)**, **Enterprise Architecture**, and **AI/ML Integration**.
+I'm an **Information Systems student** interested in building reliable, data-driven, and intelligent software systems.
 
-I'm currently building **VN-Legal-Platform** — an enterprise-grade AI system that processes 3,000+ Vietnamese legal documents with semantic search, RAG pipelines, and production-ready testing.
+My interests combine **Data Analytics, Business Analysis, Software Testing, and AI Engineering**. I enjoy working across the software lifecycle — from understanding business requirements and analyzing data to building applications, designing test strategies, and integrating AI into real-world systems.
 
-I'm actively looking for opportunities in **backend engineering**, **QA automation**, and **technical leadership** where I can contribute to real-world systems and grow with a team.
+Currently, I'm developing **VN-Legal-Platform**, an AI-powered legal intelligence platform combining **RAG, semantic search, data processing, automated testing, and performance testing**.
+
+🎯 **Currently looking for:** Internship / Junior opportunities in
+**Data Analyst · Business Analyst · QA / Tester · AI Engineer**
+
+📍 Ho Chi Minh City, Vietnam
 
 ---
 
 ## 💻 Tech Stack
 
-### **Backend & Architecture**
-![Python](https://img.shields.io/badge/-Python%203.11+-3776ab?logo=python&logoColor=white&style=flat-square)
-![FastAPI](https://img.shields.io/badge/-FastAPI-005571?logo=fastapi&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-red?style=flat-square)
+### 📊 Data & Business Analysis
 
-### **Testing & QA**
-![pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white&style=flat-square)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white&style=flat-square)
-![Locust](https://img.shields.io/badge/-Locust-green?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white\&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql\&logoColor=white\&style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas\&logoColor=white\&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql\&logoColor=white\&style=flat-square)
 
-### **AI/ML & Data**
-![LangChain](https://img.shields.io/badge/-LangChain-orange?style=flat-square)
-![pgvector](https://img.shields.io/badge/-pgvector-purple?style=flat-square)
-![Gemini](https://img.shields.io/badge/-Google%20Gemini-blue?style=flat-square)
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* ETL & Data Processing
+* SQL & Database Analysis
+* Business Requirements Analysis
+* Use Case & Workflow Analysis
 
-### **Frontend & DevOps**
-![React](https://img.shields.io/badge/-React%2019-61dafb?logo=react&logoColor=black&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ed?logo=docker&logoColor=white&style=flat-square)
-![GitHub%20Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
+### 🧪 Software Testing & QA
 
----
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest\&logoColor=white\&style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright\&logoColor=white\&style=flat-square)
+![Locust](https://img.shields.io/badge/Locust-00A98F?style=flat-square)
 
-## 🏆 Featured Projects
+* Manual Testing
+* Test Case Design
+* Functional & Regression Testing
+* API Testing
+* Database Testing
+* Unit & Integration Testing
+* E2E Automation
+* Performance Testing
+* Test Pyramid
+* Bug Reporting & Test Documentation
 
-### 🏛️ **VN-Legal-Platform** 
-*Enterprise AI system for legal document search & analysis*
+### 🤖 AI & Machine Learning
 
-**What I built:**
-- ✅ **3,000+ legal documents** indexed with 50K+ vector embeddings
-- ✅ **Hybrid search** (BM25 keyword + pgvector semantic with HNSW)
-- ✅ **RAG Pipeline** with Gemini API + anti-hallucination citations
-- ✅ **Test Pyramid**: 70% integration, 20% unit, 10% E2E tests
-- ✅ **Circuit Breaker pattern** for LLM resilience
-- ✅ **Rate Limiting** (SlowAPI) + security hardening
-- ✅ **Performance benchmarking** (identified Bcrypt bottleneck at 100+ concurrent users)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain\&logoColor=white\&style=flat-square)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?logo=google\&logoColor=white\&style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square)
 
-**Tech Stack:** FastAPI, PostgreSQL + pgvector, React, Playwright, Pytest, Locust
+* Natural Language Processing
+* TF-IDF
+* Recommendation Systems
+* Embeddings & Vector Search
+* RAG Pipelines
+* LLM Integration
+* Prompt Engineering
+* RAG Evaluation
 
-**Key Achievement:** Production-ready architecture with comprehensive testing strategy
+### ⚙️ Software Engineering
 
-📖 [Full Documentation](https://github.com/minhtoanvu/VN-Legal-Platform)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white\&style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black\&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white\&style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions\&logoColor=white\&style=flat-square)
 
----
-
-### 📊 **Vietnam Travel Analytics**
-*Data-driven travel recommendations using ML + GenAI*
-
-- TF-IDF NLP for tour content analysis
-- Google Gemini integration for AI recommendations
-- Interactive dashboard & analytics
-
-📖 [Repository](https://github.com/minhtoanvu/vietnam-travel-analytics)
-
----
-
-### 🌍 **Air Quality Monitoring (IoT)**
-*Real-time environmental monitoring with sensor data + community feedback*
-
-📖 [Repository](https://github.com/minhtoanvu/air_quality_monitoring_GPPM)
-
----
-
-## 📚 Role-Specific Documentation
-
-I've created comprehensive guides for different roles:
-
-- 🧪 **[Testing Guide](./docs/TESTING_GUIDE.md)** — For QA/Test engineers
-- 🤖 **[AI Development Guide](./docs/AI_DEVELOPMENT.md)** — For ML/AI engineers  
-- 📊 **[Business Guide](./docs/BUSINESS_GUIDE.md)** — For BA/Data analysts
-- 🏗️ **[Deployment Guide](./docs/DEPLOYMENT_GUIDE.md)** — For Architects/DevOps
+* Python / FastAPI
+* PostgreSQL
+* React
+* REST APIs
+* Docker
+* Git & GitHub
+* CI/CD
 
 ---
 
-## 🎯 Core Competencies
+# 🚀 Featured Projects
 
-| Area | Expertise |
-|------|-----------|
-| **Architecture** | Clean 3-tier, SOLID principles, async-first design, Circuit Breaker pattern |
-| **Testing** | Test pyramid, pytest fixtures, E2E automation (Playwright), performance testing (Locust) |
-| **Databases** | PostgreSQL optimization, pgvector HNSW indexing, query tuning, replication |
-| **AI/ML** | RAG pipelines, vector embeddings, LLM integration, prompt engineering, RAGAS evaluation |
-| **DevOps** | Docker, GitHub Actions CI/CD, environment management, monitoring setup |
-| **Code Quality** | Test coverage >80%, comprehensive documentation, security hardening |
+## 🏛️ VN-Legal-Platform
+
+**AI-powered legal intelligence platform for Vietnamese legal documents**
+
+A full-stack platform designed to improve how users search, understand, and analyze Vietnamese legal information.
+
+### 🤖 AI / RAG
+
+* 3,000+ Vietnamese legal documents processed
+* 50K+ vector embeddings
+* Hybrid search combining keyword and semantic retrieval
+* PostgreSQL + pgvector vector search
+* RAG pipeline with LLM integration
+* Citation-based answer generation
+* RAG evaluation and retrieval metrics
+
+### 🧪 QA / Testing
+
+* Unit & integration testing with Pytest
+* API testing
+* E2E automation with Playwright
+* Regression testing
+* Performance testing with Locust
+* Test Pyramid strategy
+* Security and error-handling validation
+
+### 📊 Data
+
+* Legal document ETL pipeline
+* Document preprocessing and metadata management
+* Structured legal knowledge representation
+* Search and retrieval analytics
+
+### 💼 Business / System Analysis
+
+* Requirement analysis
+* Use Case & workflow design
+* Role-based access control
+* Contract analysis workflow
+* Workspace and document management
+
+**Tech Stack:** Python · FastAPI · PostgreSQL · pgvector · React · Pytest · Playwright · Locust · Docker
+
+🔗 **Repository:** [VN-Legal-Platform](https://github.com/minhtoanvu/VN-Legal-Platform)
 
 ---
 
-## 📈 By The Numbers
+## 📊 Vietnam Travel Analytics
 
-- **3,000+** legal documents processed
-- **50K+** vector embeddings generated
-- **80%+** test coverage achieved
-- **100+** concurrent user load testing
-- **5** major features (Search, AI Chat, Contract Analysis, Workspace, Analytics)
+**Data Analytics + ML + NLP + Generative AI**
+
+An end-to-end analytics project exploring Vietnamese tourism data and generating intelligent travel recommendations.
+
+### What I worked on
+
+* Data cleaning and preprocessing
+* Exploratory Data Analysis (EDA)
+* TF-IDF for text feature extraction
+* Similarity-based recommendation
+* Google Gemini integration
+* Interactive data visualization
+* Business-oriented travel insights
+
+**Focus:** Data Analytics · NLP · Recommendation Systems · Generative AI
+
+🔗 **Repository:** [vietnam-travel-analytics](https://github.com/minhtoanvu/vietnam-travel-analytics)
 
 ---
 
-## 💡 What Drives Me
+## 🧪 KiemThuBTL_Library
 
-> **Quality over quantity** — I believe systems should be:
-- ✅ Thoroughly tested (not just working, but reliable)
-- ✅ Well-documented (code is communication)
-- ✅ Resilient to failure (design patterns matter)
-- ✅ Production-ready (not "works on my machine")
-- ✅ Business-aligned (understand the "why")
+**Software Testing & QA Automation Project**
+
+A testing-focused project demonstrating practical software quality assurance techniques.
+
+### What I worked on
+
+* Test planning
+* Test case design
+* Functional testing
+* API testing
+* Automated testing
+* Regression testing
+* Bug reporting
+* Test documentation
+
+**Focus:** QA · Software Testing · Test Automation · Quality Assurance
+
+🔗 **Repository:** [KiemThuBTL_Library](https://github.com/minhtoanvu/KiemThuBTL_Library)
 
 ---
 
-## 🤝 Let's Connect
+## 🌍 Air Quality Monitoring
 
-- 💼 **GitHub**: [@minhtoanvu](https://github.com/minhtoanvu)
-- 🔗 **Looking for**: Full-time backend/QA engineer roles, technical leadership opportunities
-- 📧 **Open to**: Internships, contract work, technical discussions
+**IoT + Data Analytics + Machine Learning**
+
+An environmental monitoring project combining sensor data, external APIs, images, and community feedback.
+
+### What I worked on
+
+* Sensor data collection and preprocessing
+* Data cleaning
+* Multi-source data integration
+* Time-series analysis
+* Environmental data visualization
+* Machine learning experiments
+* Air quality analysis
+
+**Focus:** Data Engineering · Analytics · IoT · Machine Learning
+
+🔗 **Repository:** [air_quality_monitoring_GPPM](https://github.com/minhtoanvu/air_quality_monitoring_GPPM)
+
+---
+
+# 🎯 Areas of Interest
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 📊 Data Analyst
+
+Data Cleaning
+EDA
+SQL
+Visualization
+Business Insights
+
+</td>
+
+<td width="25%" align="center">
+
+### 💼 Business Analyst
+
+Requirements
+Use Cases
+Workflows
+System Analysis
+Business Processes
+
+</td>
+
+<td width="25%" align="center">
+
+### 🧪 QA / Tester
+
+Test Cases
+API Testing
+Automation
+E2E Testing
+Performance
+
+</td>
+
+<td width="25%" align="center">
+
+### 🤖 AI Engineer
+
+NLP
+RAG
+Embeddings
+Vector Search
+LLM Integration
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📚 Currently Learning
+
+* Advanced SQL & Data Analytics
+* Power BI & Data Visualization
+* Business Analysis & Requirements Engineering
+* Test Automation & API Testing
+* RAG & LLM Applications
+* Data Engineering
+* Software Architecture
+
+---
+
+# 🎓 Education & Certifications
+
+**Information Systems / Management Information Systems**
+Ho Chi Minh City Open University
+
+### Certifications
+
+* Samsung Innovation Campus – AI
+* Oracle Certified Associate / Professional
+* Microsoft Office Specialist (MOS)
+* IIBA-related certification / training
+
+---
+
+# 📌 What I Care About
+
+> **Build systems that are useful, measurable, reliable, and maintainable.**
+
+I believe good software is not only about writing code.
+
+It is also about:
+
+* Understanding the **business problem**
+* Working with **data**
+* Building the right **solution**
+* Ensuring **software quality**
+* Using **AI where it creates real value**
+* Continuously improving the system through **testing and feedback**
+
+---
+
+# 🤝 Let's Connect
+
+I'm open to opportunities, internships, projects, and technical discussions related to:
+
+**Data Analytics · Business Analysis · QA / Testing · AI Engineering**
+
+* 💻 GitHub: [@minhtoanvu](https://github.com/minhtoanvu)
+* 🔗 LinkedIn: [Minh Toàn](https://www.linkedin.com/in/vuluuminhtoan/)
 
 ---
 
 <div align="center">
-  <i>Built with passion for clean code, comprehensive testing, and production-ready systems.</i>
-  <br><br>
-  ⭐ **If you find my work interesting, consider starring the VN-Legal-Platform repository!**
+
+### ⭐ Thanks for visiting my profile!
+
+<i>Data-driven thinking · Business understanding · Software quality · AI engineering</i>
+
 </div>
