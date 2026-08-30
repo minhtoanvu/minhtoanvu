@@ -19,71 +19,54 @@ Currently, I'm developing **VN-Legal-Platform**, an AI-powered legal intelligenc
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tools & Technologies
 
-### 📊 Data & Business Analysis
+### 💻 Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white\&style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql\&logoColor=white\&style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas\&logoColor=white\&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql\&logoColor=white\&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 
-* Data Cleaning & Preprocessing
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-* ETL & Data Processing
-* SQL & Database Analysis
-* Business Requirements Analysis
-* Use Case & Workflow Analysis
+### 🌐 Web & Backend
 
-### 🧪 Software Testing & QA
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
 
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest\&logoColor=white\&style=flat-square)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright\&logoColor=white\&style=flat-square)
-![Locust](https://img.shields.io/badge/Locust-00A98F?style=flat-square)
+### 📊 Data & Database
 
-* Manual Testing
-* Test Case Design
-* Functional & Regression Testing
-* API Testing
-* Database Testing
-* Unit & Integration Testing
-* E2E Automation
-* Performance Testing
-* Test Pyramid
-* Bug Reporting & Test Documentation
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
 
 ### 🤖 AI & Machine Learning
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain\&logoColor=white\&style=flat-square)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?logo=google\&logoColor=white\&style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat-square)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?logo=google&logoColor=white&style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square)
 
-* Natural Language Processing
-* TF-IDF
-* Recommendation Systems
-* Embeddings & Vector Search
-* RAG Pipelines
-* LLM Integration
-* Prompt Engineering
-* RAG Evaluation
+### 🧪 Testing & QA
 
-### ⚙️ Software Engineering
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white&style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=flat-square)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=flat-square)
+![Locust](https://img.shields.io/badge/Locust-00A98F?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white\&style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black\&style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white\&style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions\&logoColor=white\&style=flat-square)
+### ⚙️ DevOps & Collaboration
 
-* Python / FastAPI
-* PostgreSQL
-* React
-* REST APIs
-* Docker
-* Git & GitHub
-* CI/CD
-
----
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 
 # 🚀 Featured Projects
 
