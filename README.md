@@ -261,9 +261,9 @@ Ho Chi Minh City Open University
 
 * Samsung Innovation Campus – AI
 * Oracle Certified Associate / Professional
-* Microsoft Office Specialist (MOS)
 * IIBA-related certification / training
-
+* TOEIC 585
+* Chinese communication (basic)
 ---
 
 # 📌 What I Care About
