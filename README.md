@@ -260,8 +260,6 @@ Ho Chi Minh City Open University
 ### Certifications
 
 * Samsung Innovation Campus – AI
-* Oracle Certified Associate / Professional
-* IIBA-related certification / training
 * TOEIC 585
 * Chinese communication (basic)
 ---
